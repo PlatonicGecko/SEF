@@ -1,0 +1,3 @@
+﻿  classifier.c
+C:\Users\cljhu\Downloads\classifier\classifier\classifier.c(7,10): warning C4098: 'train': 'void' function returning a value
+  classifier.vcxproj -> C:\Users\cljhu\Downloads\classifier\x64\Debug\classifier.exe
